@@ -1,0 +1,20 @@
+Reference : Ottawa, Canada
+     3  : Monthly records (1=daily, 2=10-daily and 3=monthly data)
+     1  : First day of record (1, 11 or 21 for 10-day or 1 for months)
+     1  : First month of record
+  1901  : First year of record (1901 if not linked to a specific year)
+
+  Tmin (C)   TMax (C) 
+  =======================
+    -18.74     -7.73
+    -19.40     -8.05
+    -12.18     -1.32
+     -2.14     10.01
+      6.94     19.65
+     11.63     22.87
+     14.23     25.55
+     14.71     25.71
+     10.73     22.80
+      3.89     13.59
+     -1.94      6.40
+     -8.12     -0.42
